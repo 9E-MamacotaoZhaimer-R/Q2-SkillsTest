@@ -1,0 +1,26 @@
+body{
+    background-image:  url(https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/657faeff-12bc-4b51-8191-a96f7179912d/PRIMARY+PROGRAM+4+-+RAF07977.JPG?format=2500w);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container-box{
+    background-color: #ffffff;
+    padding: 40px;                 
+    border: 1px solid #f0f0f0;    
+    border-radius: 12px;           
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08); 
+    max-width: 650px;              
+    margin: 40px auto;          
+}
+
+
+#Ob-Background{
+  width: 1338px; 
+
+
+}
+
+#Ob-Logo{
+    width: 80px;
+}
